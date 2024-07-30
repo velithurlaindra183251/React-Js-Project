@@ -1,0 +1,22 @@
+#btn{
+    background-color: rgb(238, 55, 23);
+    border-radius: 30%;
+    font-size: 15px;
+    font-family: inherit;
+
+}
+#btn:hover{
+    color: rgb(16, 16, 17);
+}
+#btn1{
+    
+    background-color: rgb(238, 55, 23);
+    border-radius: 30%;
+    font-size: 15px;
+    font-family: inherit;
+
+}
+#btn1:hover{
+    color: rgb(16, 16, 17);
+}
+
